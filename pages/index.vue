@@ -1,5 +1,7 @@
 <template>
-  <div>indexgeci</div>
+  <MainLayout>index</MainLayout>
 </template>
 
-<script setup></script>
+<script setup>
+import MainLayout from "../layouts/MainLayout.vue";
+</script>
