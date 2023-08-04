@@ -1,5 +1,7 @@
 <template>
-  <MainLayout>index</MainLayout>
+  <MainLayout
+    ><div id="IndexPage" class="w-full overflow-auto"></div
+  ></MainLayout>
 </template>
 
 <script setup>
